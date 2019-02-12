@@ -1,0 +1,108 @@
+﻿ #parent
+        {
+            width:90%;
+            height:530px;
+            border:solid 1px grey;
+            margin-top:20px;
+            border-radius:30px;
+        }
+        #d1
+        {
+            float:left;
+           margin-left:100px;
+           
+           
+            background-color:lightgrey;
+            height:400px;
+            width:500px;
+            border:solid 1px grey;
+        }
+        #d2
+        {
+            float:left;
+            
+            margin-left:100px;
+            background-color:lightgrey;
+            height:400px;
+            width:300px;
+            border:solid 1px grey;
+           
+        }
+        .auto-style1 {
+            height: 38px;
+            font-size: 20px;
+            color: #003300;
+        }
+        .auto-style9 {
+            width: 982px;
+            height: 30px;
+        }
+        
+        .auto-style2 {
+            height: 183px;
+        }
+        .auto-style3 {
+            height: 39px;
+            font-size: 20px;
+            color: #003300;
+        }
+        
+        .auto-style4 {
+            width: 300px;
+            height: 84px;
+        }
+        .auto-style5 {
+            width: 500px;
+            height: 185px;
+        }
+        .auto-style6 {
+            height: 85px;
+        }
+        
+        .auto-style7 {
+            width: 500px;
+            height: 110px;
+        }
+        #btnsub
+        {
+            background-color:darkgreen;
+            color:white;
+            font-weight:bold;
+            border-radius:15px;
+        }
+        #btnskip
+        {
+             background-color:dimgray;
+            color:white;
+            font-weight:bold;
+            border-radius:15px;
+        }
+        #btnreview
+        {
+             background-color:orange;
+            color:white;
+            font-weight:bold;
+            border-radius:15px;
+        }
+        a
+        {
+            text-decoration:none;
+            color:navy;
+            font-size:20px;
+            font-weight:bold;
+        }
+        #d3
+        {
+            width:80%;
+            background-color:brown;
+            color:white;
+            font-weight:bold;
+            font-size:30px;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            height:50px;
+            border-radius:40px;
+        }
+        .auto-style8 {
+            width: 300px;
+            height: 362px;
+        }
